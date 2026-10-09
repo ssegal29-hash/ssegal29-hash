@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1D4ED8,100:7C3AED&height=200&section=header&text=Sam%20Siegel&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Sam Siegel profile banner"/>
@@ -104,4 +104,3 @@ I want to do well in school, keep learning, and build habits that help me reach 
 **Thanks for visiting my profile!** ⭐
 
 </div>
-```
